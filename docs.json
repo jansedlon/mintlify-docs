@@ -22,6 +22,12 @@
             ]
           },
           {
+            "group": "Features specs",
+            "pages": [
+              "feature-specs/webinars"
+            ]
+          },
+          {
             "group": "Customization",
             "pages": [
               "essentials/settings",
